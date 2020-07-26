@@ -10,7 +10,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  rootDir: 'my-app'
+  rootDir: 'MSA20-1'
   buildDir: '$(rootDir)/build'
 
 
