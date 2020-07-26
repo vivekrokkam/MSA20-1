@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import SearchField from './Components/SearchField/SearchField'
 import MCardList from "./Components/CardList/CardList"
-import { IUserInput } from '../../my-app/src/Common/Interface';
+import { IUserInput } from '../src/Common/Interface';
 import {createMuiTheme, MuiThemeProvider} from '@material-ui/core';
 
 
